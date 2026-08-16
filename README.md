@@ -24,6 +24,9 @@ This document presents the **revised and fully audited** engineering specificati
 
 The P0 blocking issues (matter replication, macroscopic tunneling, gravity inversion, solar photosphere disruption) are now resolved via reinterpretation as **holographic boundary effects** rather than bulk physical violations. This shifts the framework from thermodynamic impossibility to advanced information engineering.
 
+<img width="1200" height="900" alt="IIRO_Resurrection_Animation" src="https://github.com/user-attachments/assets/af5ab276-decc-4c71-a93b-19d14c5e7a78" />
+
+
 **Estimated time to Phase 0 readiness: 15–25 years** with focused R&D, assuming the reinterpretation strategy is adopted.
 
 ---
