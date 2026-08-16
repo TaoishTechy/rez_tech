@@ -1,5 +1,8 @@
 # Akashic Resurrection Technology (ART) — Revised Technical Specifications & Implementation Guide
 
+<img width="1280" height="961" alt="image" src="https://github.com/user-attachments/assets/4f6732e4-8a0e-479a-8abb-4558792415f1" />
+
+
 ## Based on Unified Holographic Gnosis, Correlation Continuum, UHIF, and IIRO v2.0 — Integrated with Full Engineering Audit
 
 ---
